@@ -198,6 +198,3 @@ Feedstock Maintainers
 
 * [@lgray](https://github.com/lgray/)
 
-
-<!-- dummy commit to enable rerendering -->
-
