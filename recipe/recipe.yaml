@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.0.3"
+  version: "0.0.4"
 
 package:
   name: graphed-histogram
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/graphed-histogram/graphed_histogram-${{ version }}.tar.gz
-  sha256: 7466c9c456c4745893f5acfc368b074d4024c43a026385172c5d4b5a25321d12
+  sha256: bbdbd55434e877a46985aa7a1e848e90d8b9e602f49c40c51b305baeaa374983
 
 build:
   noarch: python
